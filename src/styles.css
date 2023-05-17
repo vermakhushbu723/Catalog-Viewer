@@ -1,0 +1,28 @@
+.gradient-text {
+    background: linear-gradient(90deg, #1e90ff 0%, #9370db 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-top: 50px;
+  }
+  
+  .gradient-icon {
+    background: linear-gradient(90deg, #4932cdb7 0%, #e100ff 100%);
+    -webkit-background-clip: text;
+    
+  }
+  
+  .gradient-button {
+    
+    border: none;
+    color: linear-gradient(90deg, #4932cdb7 0%, #e100ff 100%);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 50px;
+  }
+  
